@@ -1,3 +1,7 @@
+<div align="center">
+  <img src=(https://github.com/a-crinkles/profile-readme-generator/assets/165613303/bd20656c-8118-4329-8576-44cc82f8af67)>
+</div>
+
 # 💫 About Me:
 🧜🏻‍♀️  I am Arabella Lopez<br>🎮 I like to play online games<br>🎥 I like to binge watch series and movies<br>🥔 My favorite food is potato and the kinds of it<br>🍣 Sushi is my comfort food
 
